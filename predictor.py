@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score
 
 #accuracy_score is a function from the sklearn.metrics module in scikit-learn. 
 #It is used to compute the accuracy of a classification model, which is the ratio of correctly predicted samples to the total number of samples.
-
+  
 #data collection and analysis
 diabetes_dataset=pd.read_csv('/content/diabetes.csv')
 
